@@ -1,0 +1,4 @@
+namespace:
+  name: customer-alpha-dev-paymentsc_api_gxsau
+  ldap-group: payments-dev
+  scc: None

@@ -1,7 +1,6 @@
 namespace:
   name: devopss-dev-payenhhjhjh_apis21
   ldap-group: backend-dev
-  scc: anyuid
   compute:
     cpu:
       request: "250m"
